@@ -16,8 +16,8 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-6600FF??style=for-the-badge&logo=Nginx)
 ![Rest](https://img.shields.io/badge/-REST-006B3C??style=for-the-badge&logo=Rest)
 ![Docker](https://img.shields.io/badge/-Docker-FF9218??style=for-the-badge&logo=Docker)
-![Djoser](https://img.shields.io/badge/-Djoser-FF9218??style=for-the-badge&logo=Djoser)
-![Json](https://img.shields.io/badge/-JsonAPI-FF9218??style=for-the-badge&logo=Json)
+![Djoser](https://img.shields.io/badge/-Djoser-D53E07??style=for-the-badge&logo=Djoser)
+![Json](https://img.shields.io/badge/-JsonAPI-4E3B31??style=for-the-badge&logo=Json)
 
 
 <h3 align="left">Write me:</h3>
