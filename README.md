@@ -1,10 +1,17 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=435&lines=Hi+everyone++I'm+Denis%F0%9F%91%8B+Python+Developer" alt="Typing SVG" /></a> 
-<h3 align="left">𝘠𝘢𝘯𝘥𝘦𝘹.𝘗𝘳𝘢𝘤𝘵𝘪𝘤𝘶𝘮 𝘴𝘵𝘶𝘥𝘦𝘯𝘵</h3>
+<h3 align="left"></h3>
+
+## Yandex.Practicum student
 
 <br>
 
-### My languages and tools:
+## My languages and tools:
 
+### Python, Django, MySQL, PostgreSQL, SQLite, Git, Linux, Nginx, Rest, Docker, Djoser, Json
+
+<br>
+
+<!--
 ![Python](https://img.shields.io/badge/-Python-cccf19??style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/-Django-067d20??style=for-the-badge&logo=Django)
 
@@ -18,7 +25,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-FF9218??style=for-the-badge&logo=Docker)
 ![Djoser](https://img.shields.io/badge/-Djoser-D53E07??style=for-the-badge&logo=Djoser)
 ![Json](https://img.shields.io/badge/-JsonAPI-4E3B31??style=for-the-badge&logo=Json)
-
+-->
 
 <h3 align="left">Write me:</h3>
 <p align="left">
