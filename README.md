@@ -1,8 +1,6 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&width=435&lines=Hi+everyone++I'm+Denis%F0%9F%91%8B+Python+Developer" alt="Typing SVG" /></a> 
 <h3 align="left"></h3>
 
-## <i>Yandex.practicum student</i>
-
 <br>
 
 ## My languages and tools:
@@ -33,26 +31,3 @@
 <a href="https://www.linkedin.com/in/denyacore/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="https://career.habr.com/denyacore1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/habr.svg" alt="" height="30" width="40" /></a>
 </p>
-
-
-
-
-
-
-
-
-
-<!--
-**Denyacore/Denyacore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
